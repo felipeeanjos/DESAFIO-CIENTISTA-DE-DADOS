@@ -6,5 +6,5 @@
 
 ## Utilizamos pandas e numpy para tratamento e vizualização dos dados por meio de um dataframe, seaborn e matplotlib para as vizualizações gráficas e utilizamos o statsmodels para a criação do nosso modelo de regressão
 
-
+## Você deve abrir o link do projeto no google colab, certificar de ter uma conta google e estar conectado, clique em abrir no colab, você deve ter em seu ambiente os arquivos, treinamento.csv , requirements.txt  (disponibilizados aqui no github) , e um arquivo test.csv disponibilizado por você para fazer as predições
 
